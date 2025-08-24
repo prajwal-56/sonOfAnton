@@ -2,11 +2,11 @@ import praw
 import random
 
 reddit = praw.Reddit(
-    client_id="sTHuuziE0_nM8kPtxVwCyg",
-    client_secret="U53bWbVsxOnzf4WnzoSxzHamEsES4w",
-    user_agent="winterJerry",
-    username="Electronic_Nebula911",
-    password="wubbaLubbaDubDub"
+    client_id // You'll never know ,
+    client_secret // You'll never know ,
+    user_agent // You'll never know ,
+    username // You'll never know ,
+    password // You'll never know 
 )
 
 print("Logged in as:", reddit.user.me())
